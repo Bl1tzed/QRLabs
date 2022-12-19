@@ -12,6 +12,7 @@ names = list()
 prices = list()
 data = dict()
 
+
 for e in webNames:
     names.append(e.text)
 for e in webPrices:
